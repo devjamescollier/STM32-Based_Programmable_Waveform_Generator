@@ -1,0 +1,42 @@
+# KiCad temporary, backup and cache files
+*.bak
+*.bck
+*.000
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*-backups/
+*.lck
+~*
+_autosave-*
+\#auto_saved_files\#
+fp-info-cache
+*-cache*
+*.kicad_sch-rescue
+*-rescue.kicad_pcb
+
+# KiCad local history (KiCad 9+) and per-user project settings
+.history/
+*.kicad_prl
+
+# Netlist / autorouter scratch files
+*.net
+*.dsn
+*.ses
+
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / cache
+__pycache__/
+*.pyc
