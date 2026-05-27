@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM1117")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LM1117/LM1117.kicad_sym")(options "")(descr "Project regulator symbol matching SOT-223-3_TabPin2"))
+)
