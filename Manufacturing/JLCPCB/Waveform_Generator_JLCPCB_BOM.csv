@@ -1,0 +1,26 @@
+Comment,Designator,Footprint,LCSC Part #,Quantity
+"2.2nF 50V C0G 5%, 0805",C1,C_0805_2012Metric,C28260,1
+"100nF 50V X7R 10%, 0805","C3, C4, C5, C9, C10, C11",C_0805_2012Metric,C49678,6
+"10uF 25V X5R 10%, 1206",C2,C_1206_3216Metric,C9807,1
+"10uF 25V X5R 10%, 0805",C6,C_0805_2012Metric,C15850,1
+"10uF 16V tantalum 10%, A case","C7, C8",CP_EIA-3216-18_Kemet-A,C7171,2
+Red LED 0805 NCD0805R1,"D1, D2, D3, D4, D5",LED_0805_2012Metric,C84256,5
+1x05 right-angle header 2.54mm pitch 6mm mating pins,J1,PinHeader_1x05_P2.54mm_Horizontal,C492413,1
+Amphenol 10104110 Micro USB-B,J2,USB_Micro-B_Amphenol_10104110_Horizontal,C2931352,1
+"JST XH 2-pin, 2.50mm, vertical",J3,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,C158012,1
+"IRLML0030 N-channel MOSFET, SOT-23","Q3, Q4",SOT-23,C67272,2
+"560 ohm 1% 125mW, 0805",R1,R_0805_2012Metric,C28636,1
+"4.7k ohm 1% 125mW, 0805","R2, R4",R_0805_2012Metric,C17673,2
+"6.8k ohm 1% 125mW, 0805",R3,R_0805_2012Metric,C17772,1
+"10k ohm 1% 125mW, 0805","R5, R7, R11",R_0805_2012Metric,C17414,3
+"1M ohm 1% 125mW, 0805",R9,R_0805_2012Metric,C17514,1
+"49.9 ohm 1% 125mW, 0805",R15,R_0805_2012Metric,C17720,1
+"220 ohm 1% 125mW, 0805","R6, R10, R12, R13, R14",R_0805_2012Metric,C17557,5
+"5.6k ohm 1% 125mW, 0805",R8,R_0805_2012Metric,C4382,1
+10k ohm trimmer TC33X-2-103E,RV1,Potentiometer_Bourns_TC33X_Vertical,C719176,1
+6mm through-hole momentary pushbutton,"SW1, SW2, SW3",SW_PUSH_6mm,C93157,3
+PTC 250mA hold 500mA trip 16V 1206,TH1,Fuse_1206_3216Metric,C99561,1
+"STM32C031K6T6, LQFP-32 7x7mm",U1,LQFP-32_7x7mm_P0.8mm,C5456169,1
+"MCP4901 8-bit SPI DAC, SOIC-8",U2,SOIC-8_3.9x4.9mm_P1.27mm,C623655,1
+"LM1117 3.3V regulator, SOT-223",U4,SOT-223-3_TabPin2,C129334,1
+"TLV2372 dual op-amp, SOIC-8",U5,SOIC-8_3.9x4.9mm_P1.27mm,C27204,1
